@@ -6,4 +6,4 @@
 
 - **Nome:** João Carlos Oliveira do Vale
 - **ID:** 100697
-- **Fotografia:**
+- **Fotografia:** ![foto](joao.png)
