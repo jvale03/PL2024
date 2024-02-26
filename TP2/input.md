@@ -4,9 +4,13 @@ Este é um **exemplo** de *_Markdown_*.
 
 ## Subtítulo
 
-- Item 1
-- Item 2
-- *item 3*
+1. Item 1
+2. Item 2
+3. item 3
+
+- ola1
+- ola2
+- *ola3*
 
 [link]("http://www.uc.pt")
 ![imagem](joao.png)
