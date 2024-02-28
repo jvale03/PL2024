@@ -1,4 +1,4 @@
-# TPC1: Análise de um dataset
+# TPC2: Conversor de MD para HTML
 ## Aluno: 
 - João Carlos Oliveira Vale 
 - a100697
