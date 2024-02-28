@@ -9,7 +9,7 @@ def somador(file):
 
     patterns = re.findall(r'(off|on|=|\d+)',line,re.IGNORECASE)
     for pattern in patterns:
-        if re.search(r'off',pattern,re.IGNORECASE):
+        if re.match(r'off',pattern,re.IGNORECASE):
             status = False
         elif re.match(r'on',pattern,re.IGNORECASE):
             status = True
