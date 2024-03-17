@@ -1,4 +1,4 @@
-# TPC3: Somador on/off
+# TPC4: Analisador Léxico
 ## Aluno: 
 - João Carlos Oliveira Vale 
 - a100697

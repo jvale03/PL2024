@@ -1,0 +1,7 @@
+1 Cola 8 1.2
+2 Agua 13 0.7
+3 Sumol 5 1.2
+4 KinderBueno 3 1.5
+5 KitKat 4 1.2
+6 Bolachas 13 1.5
+7 Croissant 4 2.2
