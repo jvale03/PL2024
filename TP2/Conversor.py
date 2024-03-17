@@ -19,6 +19,8 @@ def markdown_to_html(md_text):
     # substituir links
     md_text = re.sub(r'\[(.*?)\]\((.*?)\)', r'<a href=\2>\1</a>', md_text)
 
+
+
     # Substituir paragrados
     md_text = re.sub(r'\n\n', r'\n</p>\n<p>\n', md_text)
     md_text = '<p>' + md_text + '</p>'
